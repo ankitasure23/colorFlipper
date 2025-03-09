@@ -1,7 +1,7 @@
 README.md
 This is a color Flipper project.
 
-apple 
+apple
 banana
 cherry
 mango
